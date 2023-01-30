@@ -6,3 +6,5 @@
 - git commit -m "Mensaje" : Hace que git guarde los cambios que hayamos añadido en un nuevo commit.
 - git reset --hard: Borra todos los cambios del Git
 - Git restore <File>: Borra los ultimos cambios hechos.
+- git push -u <Branch>: Subo mis cambios (commits ) a la plataforma cloud donde tengo mis proyectos de git (github) con el -u conecto mi rama para siempre y ahora puedo usar directamente git push.
+- git push: se usa despues de usar git push -u para conectar directamente a la <branch>.
